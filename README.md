@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React-Clicker
+This is a simple clicker app built with react
+#### How to run
+1. Download zip or clone repo
+2. Install dependencies by running (npm install)
+3. Run (npm start) to start
+#### Feature
+- Clicking increases count and updated count appears
 
 ## Available Scripts
 
